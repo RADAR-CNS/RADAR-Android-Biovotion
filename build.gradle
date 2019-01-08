@@ -82,7 +82,7 @@ dependencies {
     // Generic BLE library
     compile 'ch.hevs.ble.lib:hevs-ble-library:0.8.1:release@aar'
 
-    compile 'org.radarcns:radar-commons-android:0.3'
+    compile 'org.radarcns:radar-commons-android:0.9.3'
     compile 'org.radarcns:radar-schemas-commons:0.2'
 
     testCompile 'junit:junit:4.12'
